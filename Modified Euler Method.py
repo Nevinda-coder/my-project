@@ -1,4 +1,5 @@
 print("Using Eular Method from Master Branch")
+print("this is edited by python branch")
 # Python Implementation of Modiefied Euler method
 def func( x, y ): 
 	return (3*(18-y))
