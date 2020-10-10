@@ -1,3 +1,4 @@
+print("Using Runge Kutta method\n")
 # Python implementation of Runge Kutta method of order 4 
 def func(x, y): 
 	return (3*(18-y)) 
